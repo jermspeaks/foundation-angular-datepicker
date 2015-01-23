@@ -1,3 +1,13 @@
+/*
+ * foundation-angular-datepicker
+ * Foundation Datepicker directive for AngularJS
+ * This is a fork of angular-ui's bootstrap converted to foundation.
+ * By Jeremy Wong
+ */
+
+/*! Copyright (c) 2014 Jeremy Wong and contributors | Licensed under the MIT license */
+
+
 angular.module('ui.bootstrap.datepicker', ['ui.bootstrap.dateparser', 'ui.bootstrap.position'])
 
 .constant('datepickerConfig', {
