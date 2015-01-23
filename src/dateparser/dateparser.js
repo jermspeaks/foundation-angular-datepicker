@@ -1,4 +1,4 @@
-angular.module('ui.bootstrap.dateparser', [])
+angular.module('ui.foundation.dateparser', [])
 
 .service('dateParser', ['$locale', 'orderByFilter', function($locale, orderByFilter) {
 

@@ -8,7 +8,7 @@
 /*! Copyright (c) 2014 Jeremy Wong and contributors | Licensed under the MIT license */
 
 
-angular.module('ui.bootstrap.datepicker', ['ui.bootstrap.dateparser', 'ui.bootstrap.position'])
+angular.module('ui.foundation.datepicker', ['ui.foundation.dateparser', 'ui.foundation.position'])
 
 .constant('datepickerConfig', {
   formatDay: 'dd',
